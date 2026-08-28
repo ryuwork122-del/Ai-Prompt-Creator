@@ -27,3 +27,18 @@ This app acts as your personal prompt wizard:
 ---
 
 ## 🚀 How It Works
+1. **Input:** Type a simple request (e.g., *"Help me plan a 3-day travel itinerary"*).
+2. **Transform:** The machine enhances it by defining role, context, output format, and rules.
+3. **Output:** Get a high-converting prompt to use anywhere!
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+Make sure you have Node.js / Python (or your framework setup) installed on your system.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/ryuwork122-del/Ai-Prompt-Creator.git](https://github.com/ryuwork122-del/Ai-Prompt-Creator.git)
